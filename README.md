@@ -8,7 +8,7 @@ A tool designed to track, monitor and predict the outcomes of Team Seas. In addi
 ## Updates
 <details open>
     <summary>Update 0.1.2</summary>
-        [x] Added StatisticsManager for managing live statistics <br>
+        [ x ] Added StatisticsManager for managing live statistics <br>
         [*] External data file for offline storage <br>
     </details>
 <details open>
