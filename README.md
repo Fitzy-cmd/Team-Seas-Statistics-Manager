@@ -1,4 +1,8 @@
 # Team Seas Statistics Manager
+
+## Retired
+Started this as something to chew time, got caught up with more important stuff and never bothered to finish.
+
 A tool designed to track, monitor and predict the outcomes of Team Seas. In addition, it will also provide useful statistics for calculating different outcomes and visualising them.
 
 
